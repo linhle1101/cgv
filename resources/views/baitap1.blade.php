@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Thêm thể loại</title>
+        <title>Thêm thể loại.</title>
     </head>
     <body>
        <center> <form action="{{url('themtheloai')}}" method="post">
